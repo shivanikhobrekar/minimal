@@ -1,6 +1,20 @@
-title: Shivani Khobrekar
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align ="center"> Shivani Khobrekar </p>
+logo: /assets/img/photo.jpg
+description: 
+  <p align="center">
+  <a href="pdf/Shivani's Resume">Resume</a>
+  <a href="https://www.linkedin.com/in/shivani-khobrekar-787637b8/">Linkedin</a>
+  <a href="https://github.com/shivanikhobrekar/">Github</a>
+
+  <br>
+  Experienced software developer with 7 years in responsive website creation for tech and services. 
+  Innovator integrating APIs, microservices, databases. 
+  Lead in high-performance, reusable code. Agile/SDLC understanding.
+  Mentor for effective code and growth. 
+  Proficient in Ecommerce, Banking, Telecom. Always learning for tech advancement.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
